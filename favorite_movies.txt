@@ -1,6 +1,6 @@
-1 Star Wars
-2 The Prestige
-3 Captain America The Winter Soldier
-4 Baby Driver
-5 Top Gun
-6 The Proposal
+1 Captain America The Winter Soldier
+2 Baby Driver
+3 The Prestige
+4 Top Gun
+5 The Proposal
+6 Star Wars
